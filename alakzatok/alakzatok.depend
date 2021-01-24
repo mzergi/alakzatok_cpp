@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1556129187 source:d:\codeblocks\prog2\alakzatok\line.cpp
+	"line.h"
+
+1556129802 d:\codeblocks\prog2\alakzatok\line.h
+	"point.h"
+	<math.h>
+
+1556129802 d:\codeblocks\prog2\alakzatok\point.h
+	<iostream>
+
+1554107477 source:d:\codeblocks\prog2\alakzatok\point.cpp
+	"point.h"
+	<iostream>
+
+1554140085 source:d:\codeblocks\prog2\alakzatok\shapes.cpp
+	"shapes.h"
+	<iostream>
+
+1556129802 d:\codeblocks\prog2\alakzatok\shapes.h
+	"point.h"
+
+1555973412 source:d:\codeblocks\prog2\alakzatok\square.cpp
+	"square.h"
+	"point.h"
+	"shapes.h"
+	"line.h"
+	<iostream>
+	<math.h>
+
+1556129802 d:\codeblocks\prog2\alakzatok\square.h
+	"shapes.h"
+	"line.h"
+	"point.h"
+
+1555944070 source:d:\codeblocks\prog2\alakzatok\triangle.cpp
+	"point.h"
+	"shapes.h"
+	"triangle.h"
+	"line.h"
+	<iostream>
+	<math.h>
+
+1556129802 d:\codeblocks\prog2\alakzatok\triangle.h
+	"shapes.h"
+
+1556126444 source:d:\codeblocks\prog2\alakzatok\main.cpp
+	<iostream>
+	<fstream>
+	<mem.h>
+	"shapes.h"
+	"point.h"
+	"triangle.h"
+	"line.h"
+	"square.h"
+
